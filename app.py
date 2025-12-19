@@ -137,7 +137,7 @@ if st.session_state.page == "Tentang Aplikasi" and st.session_state.user_name is
 else:
     if st.session_state.page == "Prediksi Waktu Tidur":
         # Input fitur dari pengguna
-        st.title("Prediksi Waktu Tidur Berdasarkan Fitur Kesehatan")
+        st.title("Prediksi Durasi Tidur Berdasarkan Kebiasaan Harian Menggunakan Multi-Layer Perceptron")
 
         col1, col2 = st.columns(2)
 
