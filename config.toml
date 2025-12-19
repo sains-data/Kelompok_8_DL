@@ -1,0 +1,7 @@
+# .streamlit/config.toml
+[theme]
+primaryColor = "#FF6347"  # Warna utama merah cerah (Coral)
+backgroundColor = "#f0f4f8"  # Warna latar belakang abu-abu muda
+secondaryBackgroundColor = "#ffffff"  # Warna latar belakang sekunder putih bersih
+textColor = "#333333"  # Teks gelap untuk kontras yang lebih baik
+font = "sans serif"  # Font yang bersih dan modern
