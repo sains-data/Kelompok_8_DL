@@ -21,7 +21,7 @@ Model dibangun menggunakan pendekatan machine learning dengan tahapan preprocess
 Dataset diperoleh melalui penyebaran kuesioner Google Form kepada mahasiswa aktif Program Studi Sains Data ITERA angkatan 2021–2025.
 
 🔗 Link Dataset:  
-[Klik di sini]()
+[Dataset Excel](https://github.com/USERNAME/NAMA-REPO/blob/main/Data_Response_Gform_Deep_Learning%20(1).xlsx)
 
 ### Fitur Dataset
 - Usia
