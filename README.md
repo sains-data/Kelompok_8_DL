@@ -71,6 +71,6 @@ Hasil menunjukkan bahwa model mampu melakukan generalisasi dengan baik tanpa ove
 
 
 ## 👩‍💻 Author
-- Elia Meylani
+- Elia Meylani Simanjuntak
 - Rut Junita Sari Siburian
 - Rafa Aqilla Jungjunan
