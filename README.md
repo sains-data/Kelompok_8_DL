@@ -67,8 +67,7 @@ Hasil menunjukkan bahwa model mampu melakukan generalisasi dengan baik tanpa ove
 
 ## 📷 Visualisasi
 ### Perbandingan Nilai Aktual dan Prediksi
-![Aktual vs Prediksi](images/aktual_vs_prediksi.png)
-
+![Aktual vs Prediksi](images/traintest.jpg)
 
 
 ## 👩‍💻 Author
